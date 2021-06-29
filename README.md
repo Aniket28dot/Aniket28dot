@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aniket.
+- 👀 I’m interested in Web Development, building new projects and Programming to solve real world problems. 
+- 🌱 I’m currently learning MERN stack.
+- 💞️ I’m looking to collaborate on any Web Development Project for an organization.
+- 📫 You can reach me out at aniketbhatia28@gmail.com
