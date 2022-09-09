@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket28dot&label=Profile%20views&color=0e75b6&style=flat" alt="aniket28dot" /> </p>
 
-- 🌱 I’m currently learning **React, JS, Next.js, and trying my hands on other new tech stacks.**
+- 🌱 I’m currently learning **Android Development.**
 
-- 💬 Ask me about **C++, problem solving, data structures, algorithms**
+- 💬 Ask me about **C++, Problem Solving, Data Structures, Algorithms**
 
 - 📫 How to reach me **aniketbhatia28@gmail.com**
 
