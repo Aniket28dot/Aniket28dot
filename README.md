@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket28dot&label=Profile%20views&color=0e75b6&style=flat" alt="aniket28dot" /> </p>
 
-- 🌱 I’m currently learning **Android Development.**
+<!-- - 🌱 I’m currently learning **.** -->
 
 - 💬 Ask me about **C++, Problem Solving, Data Structures, Algorithms**
 
