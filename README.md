@@ -7,9 +7,9 @@
 
 <!-- - 🌱 I’m currently learning **.** -->
 
-- 💬 Ask me about **C++, Problem Solving, Data Structures, Algorithms**
+- 💬 Ask me about **C++, Problem Solving, Data Structures, Algorithms, AWS Solutions, Cloud Architecture, NoSQL Databases, API Programming, WhatsApp Business API's, Data Streaming Pipelines**
 
-- 📫 How to reach me **aniketbhatia28@gmail.com**
+- 📫 You can reach me @ **aniketbhatia28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
